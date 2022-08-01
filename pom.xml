@@ -18,8 +18,8 @@
         <postgresql.version>42.2.2</postgresql.version>
         <cassandra.version>3.2.0</cassandra.version>
 
-        <spark.scope>compile</spark.scope>
-<!--                <spark.scope>provided</spark.scope>-->
+<!--        <spark.scope>compile</spark.scope>-->
+                <spark.scope>provided</spark.scope>
 
     </properties>
 
